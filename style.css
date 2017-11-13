@@ -1,0 +1,39 @@
+body {
+	background: #55ACEE;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	font-family: 'Pacifico', cursive;
+}
+
+h1, h2, h3, button, a {
+	text-align: center;
+	font-weight: 200;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+button {
+	margin-top: 1rem;
+	height: 5rem;
+	width: 50%;
+	border: 2px solid #fff;
+	border-radius: 10px;
+	background: #55ACEE;
+	font-family: 'Pacifico', cursive;
+	color: #fff;
+	position: relative;
+	left: 25%;
+}
+
+a {
+	padding-top: 1rem;
+	display: block;
+	margin: auto;
+	color: #fff;
+	font-size: 3rem;
+}
