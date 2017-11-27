@@ -1,5 +1,5 @@
 # random-Quote-Machine
-Random quote app jS/API/Ajax
+Random quote app
 
 If U wan't use live demo, just click the link at the top of the page next to the description.
 
@@ -10,10 +10,10 @@ If you want to tweet a quote you just need to click on te Twitter text on the sc
 
 Used:
 
-Git
-API
-jQuery
-AJAX
-RWD
-CSS
+Git/
+API/
+jQuery/
+AJAX/
+RWD/
+CSS/
 HTML
